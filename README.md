@@ -2,18 +2,16 @@
 
 # Shreyas Kadlag
 
-### Data Analyst | Python • SQL • Power BI • Tableau • Machine Learning
+### Data Analyst Fresher | Python • SQL • Power BI • Tableau • Excel
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/shreyas-kadlag-a66b93299">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="https://github.com/shreyaskadlag">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=shreyaskadlag&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=shreyaskadlag&style=for-the-badge&color=blue" />
 </p>
 
 </div>
@@ -22,97 +20,45 @@
 
 ## About Me
 
-Computer Engineering graduate with a strong interest in Data Analytics, Business Intelligence, and Predictive Modeling. Skilled in transforming raw datasets into meaningful insights through data cleaning, visualization, dashboard development, and analytical problem-solving.
+I am a Computer Engineering graduate focused on Data Analytics, Business Intelligence, and Data Visualization.
 
-Focused on building practical analytics projects using Python, SQL, Power BI, Tableau, and Machine Learning.
+I work with Python, SQL, Excel, Power BI, and Tableau to clean data, find patterns, and present insights clearly.
+
+I am currently building projects that show business understanding, analytical thinking, and practical problem-solving.
 
 ---
 
-## Technical Skills
+## Core Skills
 
-### Languages
-- Python
-- SQL
-- JavaScript
-
-### Data Analytics
-- Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Statistical Analysis
-
-### Visualization & BI Tools
-- Power BI
-- Tableau
-- Microsoft Excel
-- Matplotlib
-
-### Machine Learning
-- ARIMA
-- Regression Models
-- Predictive Analytics
-- Data Preprocessing
-
-### Tools & Platforms
-- Git
-- GitHub
-- AWS
-- Firebase
-- Jupyter Notebook
-- Google Colab
+**Programming:** Python, SQL, JavaScript  
+**Analytics:** Data Cleaning, EDA, Business Analysis, Reporting  
+**Visualization:** Power BI, Tableau, Excel, Matplotlib  
+**ML Basics:** ARIMA, Regression, Predictive Modeling  
+**Tools:** Git, GitHub, Jupyter Notebook, Google Colab, AWS, Firebase
 
 ---
 
 ## Featured Projects
 
 ### Stock Price Prediction Using Machine Learning
-Developed a stock market prediction system using Python and ARIMA for forecasting stock price trends based on historical market data.
+Built a stock forecasting project using Python and ARIMA to analyze historical trends and predict future movement.
 
-**Key Highlights**
-- Historical stock trend analysis
-- Forecast visualization
-- Predictive analytics using ARIMA
-- Dashboard-oriented insights
+**Tech Stack:** Python, Pandas, Matplotlib, ARIMA, Django
 
-**Tech Stack**
-`Python` `Pandas` `Matplotlib` `ARIMA` `Django`
+### Retail Sales Analysis
+Analyzed retail sales data to identify revenue trends, category performance, and customer behavior.
 
----
-
-### Retail Sales Analysis Dashboard
-Performed retail sales analysis to identify customer behavior, sales patterns, and profitability insights through dashboards and visual analytics.
-
-**Key Highlights**
-- KPI dashboard creation
-- Region-wise sales analysis
-- Revenue and profit tracking
-- Business insight generation
-
-**Tech Stack**
-`Python` `SQL` `Power BI` `Excel`
-
----
+**Tech Stack:** Python, SQL, Power BI, Excel
 
 ### Healthcare Data Management System
-Designed a healthcare management and reporting system for efficient handling of hospital and patient records.
+Created a Python and SQL based system for managing hospital records and generating structured reports.
 
-**Key Highlights**
-- Database integration
-- Record management
-- Reporting and analytics
-
-**Tech Stack**
-`Python` `SQL`
-
----
+**Tech Stack:** Python, SQL
 
 ### Real-Time Weather Analytics
-Built a weather analytics application for monitoring and visualizing live weather conditions and trends.
+Developed a weather analytics project for tracking and visualizing live weather data.
 
-**Tech Stack**
-`Python` `API Integration` `Data Visualization`
+**Tech Stack:** Python, APIs, Data Visualization
 
 ---
 
@@ -126,38 +72,26 @@ Built a weather analytics application for monitoring and visualizing live weathe
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyaskadlag&show_icons=true&theme=default&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaskadlag&layout=compact&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=shreyaskadlag&show_icons=true&theme=default&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaskadlag&layout=compact&theme=default&hide_border=true" height="170" />
 
 </div>
 
 ---
 
-## Areas of Interest
-
-- Data Analytics
-- Business Intelligence
-- Dashboard Development
-- Machine Learning
-- Predictive Analytics
-- Data Visualization
-
----
-
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/shreyas-kadlag-a66b93299
+- LinkedIn: www.linkedin.com/in/shreyas-kadlag-a66b93299
 - GitHub: https://github.com/shreyaskadlag
 
 ---
 
 <div align="center">
 
-### Building data-driven solutions through analytics and visualization.
+### Turning data into clear business insights.
 
 </div>
