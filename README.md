@@ -1,97 +1,154 @@
 <div align="center">
 
-# Shreyas Kadlag
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Shreyas%20Kadlag&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=58" />
 
-### Data Analyst Fresher | Python • SQL • Power BI • Tableau • Excel
+</div>
 
-<p>
-  <a href="https://www.linkedin.com/in/shreyas-kadlag-a66b93299">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/shreyaskadlag">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shreyaskadlag&style=for-the-badge&color=blue" />
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shreyas-kadlag-a66b93299">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreyaskadlag">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=shreyaskadlag&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-## About Me
+# 💫 About Me
 
-I am a Computer Engineering graduate focused on Data Analytics, Business Intelligence, and Data Visualization.
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdhM2N0eDN2dGV2bHBxY2VxYWV1eXl2bWQ2aG5qZXFobm9sYW03NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
 
-I work with Python, SQL, Excel, Power BI, and Tableau to clean data, find patterns, and present insights clearly.
+🎓 Computer Engineering Graduate  
 
-I am currently building projects that show business understanding, analytical thinking, and practical problem-solving.
+📊 Aspiring Data Analyst passionate about solving business problems using data  
 
----
+📈 Skilled in:
+- Python
+- SQL
+- Power BI
+- Tableau
+- Excel
+- Machine Learning
 
-## Core Skills
+💡 Interested in:
+- Data Analytics
+- Business Intelligence
+- Predictive Analytics
+- Dashboard Development
+- Data Visualization
 
-**Programming:** Python, SQL, JavaScript  
-**Analytics:** Data Cleaning, EDA, Business Analysis, Reporting  
-**Visualization:** Power BI, Tableau, Excel, Matplotlib  
-**ML Basics:** ARIMA, Regression, Predictive Modeling  
-**Tools:** Git, GitHub, Jupyter Notebook, Google Colab, AWS, Firebase
+🌱 Currently learning:
+- Advanced SQL
+- Power BI Dashboarding
+- Data Storytelling
+- Machine Learning Models
 
----
-
-## Featured Projects
-
-### Stock Price Prediction Using Machine Learning
-Built a stock forecasting project using Python and ARIMA to analyze historical trends and predict future movement.
-
-**Tech Stack:** Python, Pandas, Matplotlib, ARIMA, Django
-
-### Retail Sales Analysis
-Analyzed retail sales data to identify revenue trends, category performance, and customer behavior.
-
-**Tech Stack:** Python, SQL, Power BI, Excel
-
-### Healthcare Data Management System
-Created a Python and SQL based system for managing hospital records and generating structured reports.
-
-**Tech Stack:** Python, SQL
-
-### Real-Time Weather Analytics
-Developed a weather analytics project for tracking and visualizing live weather data.
-
-**Tech Stack:** Python, APIs, Data Visualization
+📍 Pune, India
 
 ---
 
-## Certifications
-
-- IBM Machine Learning with Python
-- Deloitte Data Analytics Virtual Internship
-- TATA Data Analytics Virtual Internship
-- VOIS Machine Learning Basics
-- IIT Bombay Spoken Tutorial Certifications
-
----
-
-## GitHub Stats
+# 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyaskadlag&show_icons=true&theme=default&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaskadlag&layout=compact&theme=default&hide_border=true" height="170" />
+## 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript"/>
+
+---
+
+## 📊 Analytics & Visualization
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+---
+
+## ☁️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,aws,firebase,vscode"/>
 
 </div>
 
 ---
 
-## Contact
+# 📂 Featured Projects
 
-- LinkedIn: www.linkedin.com/in/shreyas-kadlag-a66b93299
-- GitHub: https://github.com/shreyaskadlag
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| 📈 Stock Price Prediction | Forecasted stock trends using ARIMA model and Python | Python, ARIMA, Django |
+| 🛒 Retail Sales Dashboard | Business insights dashboard for retail analytics | Power BI, SQL, Excel |
+| 🏥 Healthcare Management | Hospital record management and reporting system | Python, SQL |
+| 🌦️ Weather Analytics | Real-time weather tracking and visualization | Python, APIs |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyaskadlag&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaskadlag&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyaskadlag&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+🥇 IBM Machine Learning with Python  
+🥇 Deloitte Data Analytics Virtual Internship  
+🥇 TATA Data Analytics Virtual Internship  
+🥇 VOIS Machine Learning Basics  
+🥇 IIT Bombay Spoken Tutorial Certifications  
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shreyas-kadlag-a66b93299">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/shreyaskadlag">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Turning data into clear business insights.
+## ⭐ Turning Data Into Insights That Drive Decisions ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
 
 </div>
